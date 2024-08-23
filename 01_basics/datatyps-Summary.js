@@ -22,3 +22,18 @@ console.log(typeof exampleVar);  // Outputs: "string"
 // Reference/Non primitive data types -> call by reference ( array,object, function) -> heap memory
 
 // JavaScript is a dynamically typed language. This means that you don't need to specify the data type of a variable when you declare it.
+
+// There are 2 types of datatype
+// 1.Primitive datatype:-
+//     1.String
+//     2. Number
+//     3. Boolean (true / false)
+//     4. null (it means empty or not zero)
+//     5. undefined (You have declared your variable but you have not decided what value you will put in it)
+//     6. Symbol (used to make any value unique)
+//     7. BigInt (which is the bigger value and we use it in BigInt)
+
+// 2. Preference datatype (Non Primitive datatype)
+//     1. Array ( [ ] )
+//     2. Object ( { } )
+//     3. Function ( function( ){ } )
